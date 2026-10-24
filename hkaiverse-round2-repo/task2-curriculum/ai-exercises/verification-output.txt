@@ -1,0 +1,7 @@
+PASS  Ex1 LRU cache :: 5 unit tests passed; 20000 random ops, 0 mismatches vs brute force; time ratio for 10x ops = 10.2
+PASS  Ex2 DBMS normalisation + SQL :: candidate key [('StudentID', 'CourseID')]; partial dependency found: True; lossless join: True; query rows [(1, 8.5), (3, 9.5)] match manual [(1, 8.5), (3, 9.5)]
+PASS  Ex3 Bayes (probability) :: exact: 19/117=0.1624, 361/557=0.6481; simulation 0.1620, 0.6460 (2,000,000 trials)
+PASS  Ex4 Subnetting (VLSM) :: inside parent: True; no overlap: True; each fits: True; each as small as possible: True; free space ['172.16.42.224/27', '172.16.43.0/24']
+PASS  Ex5 Round Robin scheduling :: gantt matches: True; completion {'P2': 7, 'P1': 16, 'P3': 20, 'P4': 22}; turnaround {'P2': 6, 'P1': 16, 'P3': 18, 'P4': 19}; waiting {'P2': 3, 'P1': 11, 'P3': 10, 'P4': 13}; averages 14.75/9.25
+
+5/5 exercises verified

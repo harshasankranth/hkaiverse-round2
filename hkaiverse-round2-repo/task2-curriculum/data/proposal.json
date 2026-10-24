@@ -1,0 +1,24 @@
+{
+  "status": {
+    "ES202": "UPDATE",
+    "AI208": "UPDATE",
+    "AI202": "UPDATE",
+    "AI203": "UPDATE",
+    "AI306": "UPDATE",
+    "AI310": "UPDATE",
+    "SP301": "UPDATE",
+    "AI303": "REDUCE",
+    "AI211": "REDUCE",
+    "AI308": "REDUCE"
+  },
+  "newCredits": {
+    "AI303": 0,
+    "AI211": 0,
+    "AI308": 0
+  },
+  "additions": [
+    {"title": "Deploying AI Services: containers, CI/CD and monitoring", "sem": "IV", "credits": 3},
+    {"title": "LLM Application Engineering", "sem": "V", "credits": 3},
+    {"title": "Agentic Systems, Evaluation and Observability", "sem": "VI", "credits": 3}
+  ]
+}
