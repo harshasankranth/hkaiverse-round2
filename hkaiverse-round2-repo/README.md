@@ -5,7 +5,7 @@ Student work by Harsha Sankranth (B.Tech CSE (AI), ICFAI Hyderabad, batch 2023 t
 ## Reviewed revision
 
 - **Release:** https://github.com/harshasankranth/hkaiverse-round2/releases/tag/v1.0-submission
-- **Full commit URL (the commit the release points to):** https://github.com/harshasankranth/hkaiverse-round2/commit/FULL_COMMIT_SHA
+- **Full commit URL (the commit the release points to):** https://github.com/harshasankranth/hkaiverse-round2/commit/6c80180840881a378f0cd0f8e04a19e428a156cf
 
 The release was tagged first. These two links were then added in a documentation-only commit, so the tagged revision is the preserved one for review.
 
